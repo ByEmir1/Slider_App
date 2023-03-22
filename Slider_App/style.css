@@ -1,0 +1,10 @@
+
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.card-footer i{
+    cursor: pointer;
+}
